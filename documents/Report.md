@@ -19,7 +19,7 @@
 
 ![аллюр 1](https://github.com/user-attachments/assets/348fbcdd-b375-4535-8ae1-09018528b554)
 
-[аллюр 2](https://github.com/user-attachments/assets/61ad17d3-b35d-42ae-8b1a-d9d2070e2e64)
+(https://github.com/user-attachments/assets/61ad17d3-b35d-42ae-8b1a-d9d2070e2e64)
 
 ## Общие рекомендации
 По результатам тестирования необходимо:
