@@ -16,10 +16,8 @@
 
 ## Результаты выполнения автотестов сформированы отчеты:
 ![градл](https://github.com/user-attachments/assets/342f3a4e-f0e8-49e3-aa6e-4a4a44f661d5)
-
 ![аллюр 1](https://github.com/user-attachments/assets/348fbcdd-b375-4535-8ae1-09018528b554)
-
-(https://github.com/user-attachments/assets/61ad17d3-b35d-42ae-8b1a-d9d2070e2e64)
+![аллюр 2](https://github.com/user-attachments/assets/61ad17d3-b35d-42ae-8b1a-d9d2070e2e64)
 
 ## Общие рекомендации
 По результатам тестирования необходимо:
